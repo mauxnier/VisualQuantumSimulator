@@ -4,36 +4,10 @@
 // gildas.menier@univ-ubs.fr
 
 import Vqs._
-import Vqs.operators.{C, H, Rz}
-
-
-
+import Vqs.operators._
 
 object main {
-
-      def main(args: Array[String]): Unit = {
-         QReg.setDefaultUseColor()
-         //QReg.setDefaultUseASCII()
-
-        // QReg.setDefaultDrawAll()
-        // QReg.setDefaultDrawBitCircles()
-
-        // QReg.setDefaultDrawNOPhaseNormalization()
-
-
-
-         QStudy.caseQFT()
-
-        // simple example
-
-        /*
-        val rr: QReg = QReg(3)
-        rr.trace(2)
-        rr.init(2)
-        rr - H(0) - H(1) - H(2)
-        rr.end()
-         */
-
+      def main(args : Array[String]): Unit = {
+            println("hello");
       }
 }
-
