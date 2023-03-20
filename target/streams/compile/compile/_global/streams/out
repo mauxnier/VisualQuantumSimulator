@@ -1,7 +1,10 @@
-[0m[[0m[33mwarn[0m] [0m[0m25 deprecations[0m
-[0m[[0m[33mwarn[0m] [0m[0m37 deprecations (since 2.13.0)[0m
-[0m[[0m[33mwarn[0m] [0m[0m3 deprecations (since 2.13.1)[0m
-[0m[[0m[33mwarn[0m] [0m[0m59 deprecations (since 2.13.2)[0m
-[0m[[0m[33mwarn[0m] [0m[0m4 deprecations (since 2.13.3)[0m
-[0m[[0m[33mwarn[0m] [0m[0m128 deprecations in total; re-run with -deprecation for details[0m
-[0m[[0m[33mwarn[0m] [0m[0m6 warnings found[0m
+[0m[[0m[31merror[0m] [0m[0mD:\projects\VisualQuantumSimulator\src\main\scala\main.scala:20:7: not found: value rr[0m
+[0m[[0m[31merror[0m] [0m[0m      rr - $(0, "Bob") - $(1, "Alice")[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\projects\VisualQuantumSimulator\src\main\scala\main.scala:21:7: not found: value rr[0m
+[0m[[0m[31merror[0m] [0m[0m      rr - Label("Alice -> Bob")[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\projects\VisualQuantumSimulator\src\main\scala\main.scala:22:7: not found: value rr[0m
+[0m[[0m[31merror[0m] [0m[0m      rr - C(Not(0), 1)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

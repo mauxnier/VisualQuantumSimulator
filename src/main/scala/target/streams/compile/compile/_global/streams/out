@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mD:\projects\VisualQuantumSimulator\src\main\scala\main.scala:6:8: not found: object Vqs[0m
+[0m[[0m[31merror[0m] [0m[0mimport Vqs._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\projects\VisualQuantumSimulator\src\main\scala\main.scala:7:8: not found: object Vqs[0m
+[0m[[0m[31merror[0m] [0m[0mimport Vqs.operators._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
